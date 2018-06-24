@@ -9,7 +9,7 @@ Fighting game created with Greenfoot, based on anime "Rurouni Kenshin". Only 2 c
 *5* - simple slash<br/>
 *4*, *6*, *7*, *9* - super attacks<br/>
 *8* - upward slash<br/>
-*downarrow* - guard<br/><br/><br/>
+*downarrow* - guard<br/><br/>
 ### ———————[Kenshin (second player) controls]————————<br/>
 **Movement**:<br/><br/>
 *a* - move left<br/>
